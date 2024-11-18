@@ -25,7 +25,7 @@ class _MainAppState extends State<MainApp> {
   int _selectedIndex = 0;
 
   final _pages = [
-    KehadiranPage(), 
+    KehadiranPage(),
     HistoryPage(),
   ];
 

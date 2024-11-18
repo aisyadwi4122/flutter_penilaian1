@@ -9,7 +9,7 @@ class KehadiranPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(title: Text('Presensi Siswa'),
-      backgroundColor: Colors.yellowAccent),
+      backgroundColor: Colors.blueAccent),
       body: Column(
         children: [
           Expanded(

@@ -9,7 +9,7 @@ class HistoryPage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(title: Text('Riwayat Kehadiran'),
-      backgroundColor: Colors.yellowAccent),
+      backgroundColor: Colors.blueAccent),
       body: ListView.builder(
         itemCount: provider.history.length,
         itemBuilder: (context, index) {
